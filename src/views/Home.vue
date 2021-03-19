@@ -1,12 +1,6 @@
 <template>
   <div class="home">
-    <h1>This is home page</h1>
+    <h2>{{ $t('pages.home') }}</h2>
   </div>
 </template>
 
-<script>
-
-export default {
-  name: "Home",
-};
-</script>

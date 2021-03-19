@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "home": "Diese Seite ist Homepage",
+    "about": "Diese Seite handelt von page"
+  },
+  "navigations": {
+    "home": "Zuhause",
+    "about": "Über"
+  },
+  "labels": {
+    "language": "Sprachen"
+  }
+}
